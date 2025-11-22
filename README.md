@@ -33,10 +33,13 @@
 
 # Estadisticas de Perfil
 
-![GitHub Stadistics: ](https://github-readme-stats.vercel.app/api?username=MartinRamirez20&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinRamirez20&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MartinRamirez20&show_icons=true&theme=tokyonight"/>
+</p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinRamirez20&layout=compact&theme=tokyonight"/>
+</p>
 
 <!--
 **MartinRamirez20/MartinRamirez20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
