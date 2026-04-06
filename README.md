@@ -1,7 +1,8 @@
 # Acerca de mi
 
 Tecnólogo en Desarrollo de Software, experto en Python con amplios conocimientos en módulos y librerías usados en maratones de programación CCPL y también en desarrollo de aplicaciones como proyectos personales junto con bases de datos MySQL.
-### Experiencia en desarrollo de aplicaciones web y móviles con React y React Native, también con técnicas WebView y PWA mezclado con bases de datos en Supabase y Firebase.
+
+Experiencia en desarrollo de aplicaciones web y móviles con React y React Native, también con técnicas WebView y PWA mezclado con bases de datos en Supabase y Firebase.
 
 ---
 
