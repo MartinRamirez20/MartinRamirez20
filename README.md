@@ -1,8 +1,10 @@
 # Acerca de mi
 
-Tecnólogo en Desarrollo de Software, experto en Python con amplios conocimientos en módulos y librerías usados en maratones de programación CCPL y también en desarrollo de aplicaciones como proyectos personales junto con bases de datos MySQL.
+Tecnologo en Desarrollo de Software con experiencia en creación de aplicaciones web haciendo uso de la libreria React con Typescript y Supabase como base de datos como servicio.
 
-Experiencia en desarrollo de aplicaciones web y móviles con React y React Native, también con técnicas WebView y PWA mezclado con bases de datos en Supabase y Firebase.
+Miembro activo del semillero OpensGroup de la universitaria Agustiniana, participando en maratones de programación y maraton nacional de programación con Python y C++.
+
+Uso de control de versiones con Git y manejo de repositorios en GitHub. Junto con otras herramientas como gestores de paquetes NPM y entornos de ejecución como Node.js
 
 ---
 
@@ -27,7 +29,7 @@ Experiencia en desarrollo de aplicaciones web y móviles con React y React Nativ
 # Bases de datos
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ---
@@ -41,18 +43,3 @@ Experiencia en desarrollo de aplicaciones web y móviles con React y React Nativ
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinRamirez20&layout=compact&theme=tokyonight"/>
 </p>
-
-<!--
-**MartinRamirez20/MartinRamirez20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
