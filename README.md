@@ -36,6 +36,19 @@ Uso de control de versiones con Git y manejo de repositorios en GitHub, junto co
 
 # Proyectos Destacados
 
+<p align="center">
+  <a href="https://github.com/MartinRamirez20/CormedApp-ProyectoGrado">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinRamirez20&repo=CormedApp-ProyectoGrado&theme=tokyonight" width="48%" />
+  </a>
+  <a href="https://github.com/MartinRamirez20/ProyectoWeb-4th">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinRamirez20&repo=ProyectoWeb-4th&theme=tokyonight" width="48%" />
+  </a>
+</p>
+
+---
+
+# Proyectos Destacados
+
 *   **[CormedApp - Proyecto de Grado (2026)](https://github.com/MartinRamirez20/CormedApp-ProyectoGrado):** Aplicación web para la gestión y control de inventarios de suministros médicos y veterinarios, integrando React, TypeScript y Supabase para la empresa Comercializadora Medica Cormed SAS.
 *   **[Proyecto Web - 4th (2025)](https://github.com/MartinRamirez20/ProyectoWeb-4th):** Proyecto institucional de desarrollo web realizado con HTML, CSS, PHP, JavaScript y MySQL.
 
