@@ -36,27 +36,32 @@ Uso de control de versiones con Git y manejo de repositorios en GitHub, junto co
 
 # Proyectos Destacados
 
-<p align="center">
-  <a href="https://github.com/MartinRamirez20/CormedApp-ProyectoGrado">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinRamirez20&repo=CormedApp-ProyectoGrado&theme=tokyonight" width="48%" />
-  </a>
-  <a href="https://github.com/MartinRamirez20/ProyectoWeb-4th">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinRamirez20&repo=ProyectoWeb-4th&theme=tokyonight" width="48%" />
-  </a>
-</p>
-
----
-
-# Proyectos Destacados
-
-*   **[CormedApp - Proyecto de Grado (2026)](https://github.com/MartinRamirez20/CormedApp-ProyectoGrado):** Aplicación web para la gestión y control de inventarios de suministros médicos y veterinarios, integrando React, TypeScript y Supabase para la empresa Comercializadora Medica Cormed SAS.
-*   **[Proyecto Web - 4th (2025)](https://github.com/MartinRamirez20/ProyectoWeb-4th):** Proyecto institucional de desarrollo web realizado con HTML, CSS, PHP, JavaScript y MySQL.
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/MartinRamirez20/CormedApp-ProyectoGrado">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinRamirez20&repo=CormedApp-ProyectoGrado&theme=tokyonight" height="120" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MartinRamirez20/ProyectoWeb-4th">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinRamirez20&repo=ProyectoWeb-4th&theme=tokyonight" height="120" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 # Estadísticas de Perfil
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MartinRamirez20&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinRamirez20&layout=compact&theme=tokyonight" width="48%" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MartinRamirez20&show_icons=true&theme=tokyonight" height="195" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinRamirez20&layout=compact&theme=tokyonight" height="195" />
+    </td>
+  </tr>
+</table>
